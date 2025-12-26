@@ -107,6 +107,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   vite: {
     build: {
       cssTarget: "chrome100",
+      cssMinify: 'esbuild'
     },
     experimental: {
       enableNativePlugin: true,
