@@ -1,7 +1,7 @@
 ---
 title: Safety Guide
 description: Guide to help users protect themselves from threat within Hypixel.
-customDescription: Guide to help users protect themselves from threat within Hypixel.
+customDescription: Guide to help users protect themselves from threat within Hypixel. This guide has two parts first being safety on Hypixel itself and second being how to stay safe while playing Hypixel Skyblock gamemode
 ---
 
 This guide explores the how you (yes, you!) can use to protect yourself from threats and malware and have a safe experience on hypixel!
