@@ -37,7 +37,6 @@ outline: 1
 | [Mathemaniac](https://mathemaniac.org/)      | Progress | Scientific weight and skill progression calculators. |
 | [Adjectils](https://adjectils.com/)          | Progress | Modern weight calculation (Lily Weight).             |
 
----
 
 ## Security & Verification
 
@@ -50,7 +49,6 @@ In 2025, never trust a `.jar` from a direct download link without checking it. U
 - [VirusTotal](https://www.virustotal.com/) -> Scans files against 70+ antivirus engines.
 - [Coflnet Mod Check](https://sky.coflnet.com/mod) -> Database of safe mod versions.
 
----
 
 
 ## Texture Packs
@@ -64,7 +62,7 @@ In 2025, never trust a `.jar` from a direct download link without checking it. U
 | [Looshy Prism](https://looshy.moe/)                          | :pvp: | Aesthetic, modern competitive pack.       |
 | [Vanilla Tweaks](https://vanillatweaks.net/)                 | :mc:  | Modular QoL textures for modern versions. |
 
----
+
 
 ## Client & Mods
 
@@ -72,11 +70,10 @@ In 2025, never trust a `.jar` from a direct download link without checking it. U
 
 | Client                                      | Platforms         | Source                        |
 | ------------------------------------------- | ----------------- | ----------------------------- |
-| [Lunar Client](https://www.lunarclient.com) | :win: :app: :lin: | Closed Source                 |
-| [Badlion Client](https://www.badlion.net)   | :win: :app:       | Closed Source                 |
-| [Feather Client](https://feathermc.com)     | :win: :app: :lin: | Closed Source                 |
-| [Labymod](https://www.labymod.net)          | :win: :app:       | Closed Source (API available) |
-| [Salwyrr Client](https://www.salwyrr.com)   | :win:             | Closed Source                 |
+| [Lunar Client](https://www.lunarclient.com) ==LunarClient== | :win: :app: :lin: | Closed Source                 |
+| [Badlion Client](https://www.badlion.net)  ==Badlion Client== | :win: :app:       | Closed Source                 |
+| [Feather Client](https://feathermc.com)    ==Feather Client== | :win: :app: :lin: | Closed Source                 |
+| [Labymod](https://www.labymod.net)         ==Labymod== | :win: :app:       | Closed Source (API available) |
 | [Prism Launcher](https://prismlauncher.org/)| :win: :app: :lin: | Open Source                   |
 
 :::details Essential Mods
@@ -110,7 +107,6 @@ In 2025, never trust a `.jar` from a direct download link without checking it. U
 
 :::
 
----
 
 
 ## Official & Technical

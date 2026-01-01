@@ -1,0 +1,2 @@
+- Pros: Performance-focused, mod support, modern UI.
+- Cons: Smaller community, closed source.

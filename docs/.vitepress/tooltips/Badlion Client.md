@@ -1,0 +1,2 @@
+- Pros: Built-in anti-cheat, Hypixel approved, clean UI.
+- Cons: Heavier than Lunar, limited customization.

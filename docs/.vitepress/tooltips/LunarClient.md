@@ -1,0 +1,2 @@
+- Pros: Best FPS, most used on Hypixel, excellent PvP mods. 
+- Cons: Closed ecosystem, no custom mods.  

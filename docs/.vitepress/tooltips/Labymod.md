@@ -1,0 +1,2 @@
+- Pros: Social features, cosmetics, Hypixel compatible.
+- Cons: Heavier client, less PvP focused.
